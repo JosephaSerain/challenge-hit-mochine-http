@@ -1,0 +1,15 @@
+{
+    "name": "e02-s05e02-hit-mochine-http-josephaserain",
+    "version": "1.0.0",
+    "description": "On vient (encore) d'avoir Charlu et Lili au téléphone. En fait, ils ont dit que le Minitel ça va 5 minutes mais ils aimeraient un vrai site web. Bon, acte.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "rocket-launcher": "^2.0.4"
+    }
+  }
